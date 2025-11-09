@@ -1,0 +1,20 @@
+# Comandos para postar no GitHub
+
+# 1. Inicializar repositório (se ainda não foi feito)
+git init
+
+# 2. Adicionar todos os arquivos
+git add .
+
+# 3. Fazer commit
+git commit -m "Car Fuel Efficiency Prediction - Homework completo com visualizações"
+
+# 4. Adicionar repositório remoto (substitua pelo nome do seu repo)
+git remote add origin https://github.com/DaniloBlancoMotta/car-fuel-efficiency.git
+
+# 5. Enviar para GitHub
+git push -u origin main
+
+# Se der erro de branch, tente:
+git branch -M main
+git push -u origin main
