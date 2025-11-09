@@ -1,4 +1,4 @@
-# Car Fuel Efficiency Prediction - Homework
+# Car Fuel Efficiency Prediction 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
